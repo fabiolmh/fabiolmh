@@ -1,5 +1,5 @@
 <!-- Banner topo -->
-![Banner](https://media.licdn.com/dms/image/v2/D4D03AQGmmEPLmYLaUQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1678820112111?e=1759363200&v=beta&t=OvOjkFAeFROZU9YDt6PacM0SruspD8ko81qlUUH6BtU) <!-- Você pode criar um banner personalizado no Canva e trocar esse link -->
+<!--![Banner](https://media.licdn.com/dms/image/v2/D4D03AQGmmEPLmYLaUQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1678820112111?e=1759363200&v=beta&t=OvOjkFAeFROZU9YDt6PacM0SruspD8ko81qlUUH6BtU) -->
 
 # 👋 Olá, eu sou Fábio Tavares  
 
